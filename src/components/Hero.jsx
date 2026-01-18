@@ -13,10 +13,10 @@ const Hero = () => {
                         transition={{ duration: 0.6 }}
                     >
                         <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-slate-900 leading-tight">
-                            MÁS QUE NÚMEROS, <span className="text-primary">SOLUCIONES EMPRESARIALES</span>
+                            ESTUDIO CONTABLE EN LIMA | <span className="text-primary">SOLUCIONES EMPRESARIALES</span>
                         </h1>
                         <p className="mt-6 text-lg text-slate-600 max-w-lg">
-                            Soluciones contables, tributarias y financieras diseñadas para maximizar tu rentabilidad y garantizar el cumplimiento normativo.
+                            Somos el estudio contable que tu empresa necesita. Asesoría contable, tributaria y financiera diseñada para maximizar tu rentabilidad y garantizar el cumplimiento ante SUNAT.
                         </p>
 
                         <div className="mt-8 flex flex-col sm:flex-row gap-4">
