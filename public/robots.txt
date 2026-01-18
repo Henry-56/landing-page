@@ -1,11 +1,11 @@
 # Robots.txt para EQUESFIN
-# https://equesfin.pe
+# https://equesfin.es
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://equesfin.pe/sitemap.xml
+Sitemap: https://equesfin.es/sitemap.xml
 
 # Bloquear recursos no necesarios para SEO
 Disallow: /node_modules/
